@@ -1,0 +1,1 @@
+{"version":3,"file":"build-delegate-ranking.js","sourceRoot":"","sources":["../../src/actions/build-delegate-ranking.ts"],"names":[],"mappings":";;;AAAA,2DAAqD;AAKrD,MAAa,0BAA2B,SAAQ,sBAAQ,CAAC,QAAQ,CAAC,MAAM;IAC7D,KAAK,CAAC,OAAO,CAAC,IAAqB;QACtC,MAAM,SAAS,GAAc,IAAI,CAAC,SAAS,CAAC;QAE5C,OAAO,SAAS,CAAC,oBAAoB,EAAE,CAAC;IAC5C,CAAC;CACJ;AAND,gEAMC"}
